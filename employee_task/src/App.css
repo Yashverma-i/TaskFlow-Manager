@@ -1,0 +1,7 @@
+*{
+    /* background-color: rgb(26, 32, 32); */
+    color: rgb(255, 255, 255);
+}
+#taskList::-webkit-scrollbar{
+    display: none;
+}

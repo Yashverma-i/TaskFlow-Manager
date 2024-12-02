@@ -1,0 +1,17 @@
+form input{
+    border-radius: 10px;
+}
+
+.loginbox{
+    border-radius: 30px;
+    border: 5px solid black;
+}
+.btnn{
+    border-radius: 10px;
+    border: none;
+    padding: 3px 10px;
+    &:hover{
+       scale: 1.05;
+       color: rgb(162, 162, 162);
+    }
+}
